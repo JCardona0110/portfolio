@@ -1,5 +1,6 @@
 ## My Porfolio: <a href="https://jonathancardona.netlify.app" target="_blank">Check it out!</a>
-<a href="https://i.ibb.co/YjkFntq/portfolio-gif.gif" target="_blank"> A (not so)quick example gif</a>
+<img src="https://github.com/JCardona0110/JCardona0110/blob/main/portfolio%20gif.gif" width="70%" alt="Jonathan's portfolio"/>
+</a>
 
 My portfolio site including a bit about myself, my past and current projects, and how to get in touch with me.
 
